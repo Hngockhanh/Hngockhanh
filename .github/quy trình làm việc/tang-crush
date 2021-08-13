@@ -12,10 +12,10 @@ const CONFIG = {
     mess: 'Tớ biết mà hihi 🥰 ',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'oke nha <3',
-    messLink: 'https://www.facebook.com/Hngockhanh20/',
+    messLink: 'https://www.messenger.com/t/100033377588688/',
     bgLink: 'https://c4.wallpaperflare.com/wallpaper/880/299/772/tree-heart-hearts-love-wallpaper-preview.jpg', //link ảnh nền
     iputBgLink: 'https://huypham9205.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
     lookMeLink: 'https://i.pinimg.com/originals/c9/e3/ff/c9e3ff99c0c997ec9572ffae6ad837cc.jpg', //link ảnh lookMe
-    soundLink: './sound.mp3', //link nhac
+    soundLink: 'https://huypham9205.github.io/tang-crush/sound/sound.mp3', //link nhac
     duckLink: 'https://huypham9205.github.io/tang-crush/sound/duck.mp3', //link aam thanh 1
     swishLink: 'https://huypham9205.github.io/tang-crush/sound/Swish1.mp3', //link swish 
